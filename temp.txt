@@ -1,0 +1,12 @@
+Каталог E://Games/src создан.
+Каталог E://Games/res создан.
+Каталог E://Games/savegames создан.
+Каталог E://Games/temp создан.
+Каталог E://Games/src/main создан.
+Каталог E://Games/src/test создан.
+Файл Main.java добавлен в каталог E://Games/src/main
+Файл Utils.java добавлен в каталог E://Games/src/main
+Каталог E://Games/res/drawables создан.
+Каталог E://Games/res/vectors создан.
+Каталог E://Games/res/icons создан.
+Файл temp.txt добавлен в каталог E://Games/temp
